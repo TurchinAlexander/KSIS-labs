@@ -1,0 +1,68 @@
+﻿  ConsoleApplication1.cpp
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(12): error C3646: adapt: неизвестный спецификатор переопределения
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(12): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(13): error C3646: NameBuff: неизвестный спецификатор переопределения
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(13): error C2143: синтаксическая ошибка: отсутствие "," перед "["
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(13): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(13): error C2238: непредвиденные лексемы перед ";"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(19): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(20): error C2065: NCB: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "ncb"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(20): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(21): error C2065: UCHAR: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(21): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "uRetCode"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(21): error C2065: uRetCode: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(22): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(23): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(23): error C2228: выражение слева от ".ncb_command" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(23): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(23): error C2065: NCBRESET: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(24): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(24): error C2228: выражение слева от ".ncb_lana_num" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(24): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(26): error C2065: uRetCode: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(26): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(26): error C3861: Netbios: идентификатор не найден
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(27): error C2065: uRetCode: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(29): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(30): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(30): error C2228: выражение слева от ".ncb_command" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(30): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(30): error C2065: NCBASTAT: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(31): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(31): error C2228: выражение слева от ".ncb_lana_num" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(31): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(33): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(33): error C2228: выражение слева от ".ncb_callname" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(33): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(34): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(34): error C2228: выражение слева от ".ncb_buffer" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(34): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(34): error C2065: UCHAR: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(34): error C2059: синтаксическая ошибка: )
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(35): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(35): error C2228: выражение слева от ".ncb_length" должно представлять класс, структуру или объединение
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(35): note: тип: unknown-type
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(37): error C2065: uRetCode: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(37): error C2065: ncb: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(37): error C3861: Netbios: идентификатор не найден
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(38): error C2065: uRetCode: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(39): error C2065: uRetCode: необъявленный идентификатор
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(42): error C2039: adapt: не является членом "_ASTAT_"
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(11): note:  см. объявление "_ASTAT_"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(42): error C2228: выражение слева от ".adapter_address" должно представлять класс, структуру или объединение
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(43): error C2039: adapt: не является членом "_ASTAT_"
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(11): note:  см. объявление "_ASTAT_"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(43): error C2228: выражение слева от ".adapter_address" должно представлять класс, структуру или объединение
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(44): error C2039: adapt: не является членом "_ASTAT_"
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(11): note:  см. объявление "_ASTAT_"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(44): error C2228: выражение слева от ".adapter_address" должно представлять класс, структуру или объединение
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(45): error C2039: adapt: не является членом "_ASTAT_"
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(11): note:  см. объявление "_ASTAT_"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(45): error C2228: выражение слева от ".adapter_address" должно представлять класс, структуру или объединение
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(46): error C2039: adapt: не является членом "_ASTAT_"
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(11): note:  см. объявление "_ASTAT_"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(46): error C2228: выражение слева от ".adapter_address" должно представлять класс, структуру или объединение
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(47): error C2039: adapt: не является членом "_ASTAT_"
+  e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(11): note:  см. объявление "_ASTAT_"
+e:\!учеба\2 курс\яп\mac-address\consoleapplication1\consoleapplication1.cpp(47): error C2228: выражение слева от ".adapter_address" должно представлять класс, структуру или объединение
